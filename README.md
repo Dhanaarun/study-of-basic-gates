@@ -80,6 +80,8 @@ assign f7=~(a^b);
 endmodule
 ``` 
 **Logic symbol & Truthtable**
+
+
 ![WhatsApp Image 2025-03-12 at 07 48 00_96e348fb](https://github.com/user-attachments/assets/bed43bf3-7b0e-4608-ae0c-ae2539be1c03)
 
 
