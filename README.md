@@ -94,5 +94,4 @@ endmodule
 
 
 **Result:**
-Quatrus altera modelsim
-
+Thus the basic logic gates are studied and their truth table are verified
